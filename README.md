@@ -1,2 +1,2 @@
-# CONDITIONALRENDERING-REACTJS-PRCATICE
+# React-condtionalrendering-with-ternaryandANDoperator
 Created with CodeSandbox
